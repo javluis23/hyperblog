@@ -5,3 +5,8 @@ Jt tiene 40 años
 hablaremos de su VIDA y OBRA como le va
 
 en camara parece alto
+<<<<<<< HEAD
+=======
+
+peroes de estatura normal
+>>>>>>> cabecera
