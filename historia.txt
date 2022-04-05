@@ -5,13 +5,10 @@ Jtr tiene 40 años
 hablaremos de su VIDA y OBRA como le va
 
 en camara parece alto
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
-peroes de estatura normal
->>>>>>> cabecera
-=======
 
-peroes de estatura normal
->>>>>>> cabecera
+
+
+
+pero es de estatura normal
+
